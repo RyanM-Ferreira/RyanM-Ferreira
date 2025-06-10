@@ -13,11 +13,11 @@
   <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
 </div>
 
-<div style="margin-top: 30px; color: #aaa;">
-  Contato: <a href="mailto:ryanmatheusferreira@outlook.com.br" style="color: #999;">RyanMatheusFerreira@Outlook.com.br</a>
-</div>
-
 <div style="margin-top: 20px;">
   <a href="https://github.com/RyanM-Ferreira" target="_blank" style="margin-right: 15px; font-weight: bold; color: rgb(148, 71, 236); text-decoration: none;">GitHub</a>
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank" style="font-weight: bold; color: rgb(148, 71, 236); text-decoration: none;">LinkedIn</a>
+  <a href="https://linkedin.com/in/depois-eu-insiro" target="_blank" style="font-weight: bold; color: rgb(148, 71, 236); text-decoration: none;">LinkedIn</a>
+</div>
+
+<div style="margin-top: 30px; color: #aaa;">
+  Contato: <a href="mailto:ryanmatheusferreira@outlook.com.br" style="color: #999;">RyanMatheusFerreira@Outlook.com.br</a>
 </div>
