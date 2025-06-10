@@ -8,4 +8,4 @@ Atualmente cursando ADS no ensino médio técnico. Nem sempre sei o que tô faze
 
 ### Me encontre por aqui:
 
-[GitHub](https://github.com/RyanM-Ferreira) | [LinkedIn](https://linkedin.com/in/depois-insiro) | ✉ [E-mail](mailto:ryanmatheusferreira@outlook.com.br)
+[GitHub](https://github.com/RyanM-Ferreira) | [LinkedIn](https://linkedin.com/in/depois-insiro) | [E-mail](mailto:ryanmatheusferreira@outlook.com.br)
