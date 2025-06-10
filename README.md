@@ -1,72 +1,19 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ryan Matheus Ferreira</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      transition: transform 0.5s ease;
-    }
-    body {
-      background: linear-gradient(135deg, #0f0f0f, #1a1a2e);
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: #f5f5f5;
-      padding: 20px;
-    }
-    .card {
-      background: rgba(255, 255, 255, 0.05);
-      border: 1px solid black;
-      backdrop-filter: blur(10px);
-      padding: 40px;
-      border-radius: 20px;
-      max-width: 600px;
-      width: 100%;
-      box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
-    }
-    h1 {
-      margin-bottom: 10px;
-    }
-    h2 {
-      color: #ccc;
-      margin-bottom: 30px;
-    }
-    .links a {
-      display: inline-block;
-      margin-right: 10px;
-      color:rgb(148, 71, 236);
-      font-weight: bold;
-      text-decoration: none;
-    }
-    .links a:hover {
-      transform: scale(1.1);
-    }
-    .email {
-      margin-top: 30px;
-      color: #aaa;
-    }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <h1>Ryan Matheus Ferreira</h1>
-    <h2>Estudante de Análise e Desenvolvimento de Sistemas</h2>
-    <p style="margin-bottom: 30px; color: #ddd;">
-      Atualmente cursando ADS no ensino médio técnico. Nem sempre sei o que tô fazendo, mas sei que vou fazer funcionar (ou pelo menos tentar até não sobrar erro no console).
-    </p>
-    <div class="links">
-      <a href="https://github.com/RyanM-Ferreira">GitHub</a>
-      <a href="https://linkedin.com/in/" target="_blank">LinkedIn</a>
-    </div>
-    <div class="email">
-      Contato: <a href="mailto:ryanmatheusferreira@outlook.com.br" style="color: #999;">RyanMatheusFerreira@Outlook.com.br</a>
-    </div>
+<div style="background: rgba(255, 255, 255, 0.05); border: 1px solid black; backdrop-filter: blur(10px); padding: 40px; border-radius: 20px; max-width: 600px; width: 100%; box-shadow: 0 0 12px rgba(0, 0, 0, 0.3); color: #f5f5f5; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 20px auto;">
+
+  <h1 style="margin-bottom: 10px;">Ryan Matheus Ferreira</h1>
+
+  <h2 style="color: #ccc; margin-bottom: 30px;">Estudante de Análise e Desenvolvimento de Sistemas</h2>
+
+  <p style="margin-bottom: 30px; color: #ddd;">
+    Atualmente cursando ADS no ensino médio técnico. Nem sempre sei o que tô fazendo, mas sei que vou fazer funcionar (ou pelo menos tentar até não sobrar erros).
+  </p>
+
+  <div>
+    <a href="https://github.com/RyanM-Ferreira" target="_blank" rel="noopener" style="display: inline-block; margin-right: 10px; color: rgb(148, 71, 236); font-weight: bold; text-decoration: none; transition: transform 0.5s ease;">GitHub</a>
+    <a href="https://linkedin.com/in/" target="_blank" rel="noopener" style="display: inline-block; margin-right: 10px; color: rgb(148, 71, 236); font-weight: bold; text-decoration: none; transition: transform 0.5s ease;">LinkedIn</a>
   </div>
-</body>
-</html>
+
+  <div style="margin-top: 30px; color: #aaa;">
+    Contato: <a href="mailto:ryanmatheusferreira@outlook.com.br" style="color: #999;">RyanMatheusFerreira@Outlook.com.br</a>
+  </div>
+</div>
