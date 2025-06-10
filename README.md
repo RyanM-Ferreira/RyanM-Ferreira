@@ -1,4 +1,4 @@
-# Ryan Matheus Ferreira
+# Ryan Ferreira
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -6,11 +6,9 @@ Atualmente cursando ADS no ensino médio técnico. Nem sempre sei o que tô faze
 
 ---
 
-### Contato
+### Contato:
 
 📧 [ryanmatheusferreira@outlook.com.br](mailto:ryanmatheusferreira@outlook.com.br)
-
----
 
 ### Me encontre por aqui:
 
