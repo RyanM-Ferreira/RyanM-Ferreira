@@ -58,7 +58,7 @@
     <h1>Ryan Matheus Ferreira</h1>
     <h2>Estudante de Análise e Desenvolvimento de Sistemas</h2>
     <p style="margin-bottom: 30px; color: #ddd;">
-      Atualmente cursando o terceiro ano do ensino médio com habilitação técnica. Interesso-me por tecnologia, programação e sistemas, sempre buscando aprender, evoluir e construir soluções inteligentes.
+      Atualmente cursando ADS no ensino médio técnico. Nem sempre sei o que tô fazendo, mas sei que vou fazer funcionar (ou pelo menos tentar até não sobrar erro no console).
     </p>
     <div class="links">
       <a href="https://github.com/RyanM-Ferreira">GitHub</a>
