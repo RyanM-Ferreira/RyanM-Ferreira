@@ -2,7 +2,7 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente cursando ADS no ensino médio técnico. Nem sempre sei o que tô fazendo, mas sei que vou fazer funcionar (ou pelo menos tentar até não sobrar erros).
+Atualmente cursando ADS no ensino médio técnico. Nem sempre sei o que eu estou fazendo, mas sei que vou fazer funcionar (ou pelo menos tentar).
 
 ---
 
