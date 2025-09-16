@@ -1,11 +1,10 @@
 # Ryan Ferreira
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### Systems Analysis and Development Student
 
-Atualmente cursando ADS no ensino médio técnico. Nem sempre sei o que eu estou fazendo, mas sei que vou fazer funcionar (ou pelo menos tentar).
+17 years old. Currently studying ADS at a technical high school. I don't always know what I'm doing, but I know I'll make it work (or at least try).
 
 ---
+### Find me here:
 
-### Me encontre por aqui:
-
-[GitHub](https://github.com/RyanM-Ferreira) | [LinkedIn](https://linkedin.com/in/depois-insiro) | [E-mail](mailto:ryanmatheusferreira@outlook.com.br)
+[Email](mailto:ryanmatheusferreira@outlook.com.br)
