@@ -2,9 +2,8 @@
 
 *Systems Analysis and Development student*
 
-**17 years old**. I don’t always know exactly what I’m doing.  
-Most of the time, I figure things out by taking them apart and putting them back together.  
-But I know I’ll get there. Or at least **try**.
+I don’t always know exactly what I’m doing.  
+But I keep trying.
 
 [My portfolio](https://ryanm-ferreira.github.io/) | [Mail me](mailto:ryanmatheusferreira@outlook.com.br)
 
