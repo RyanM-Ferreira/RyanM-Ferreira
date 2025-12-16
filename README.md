@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ryan Ferreira
 
-<!--
-**RyanM-Ferreira/RyanM-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Systems Analysis and Development student*
 
-Here are some ideas to get you started:
+**17 years old**. I don’t always know exactly what I’m doing.  
+Most of the time, I figure things out by taking them apart and putting them back together.  
+But I know I’ll get there. Or at least **try**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My portfolio](https://ryanm-ferreira.github.io/) | [Mail me](mailto:ryanmatheusferreira@outlook.com.br)
+
+---
+
+![C#](https://img.shields.io/badge/C%23-6f42c1?style=flat)
+![Linux](https://img.shields.io/badge/Linux-6f42c1?style=flat)
