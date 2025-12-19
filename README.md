@@ -1,6 +1,6 @@
 # Ryan Ferreira
 
-*Systems Analysis and Development student*
+*System Analysis and Development student*
 
 I don’t always know exactly what I’m doing.  
 But I keep trying.
