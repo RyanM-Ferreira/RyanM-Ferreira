@@ -5,7 +5,7 @@
 I don’t always know exactly what I’m doing.  
 But I keep trying.
 
-[My portfolio](https://ryanm-ferreira.github.io/) | [Mail me](mailto:ryanmatheusferreira@outlook.com.br)
+[My portfolio (outdated)](https://ryanm-ferreira.github.io/) | [Mail me](mailto:ryanmatheusferreira@outlook.com.br)
 
 ---
 
