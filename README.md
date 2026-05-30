@@ -10,5 +10,5 @@ But I keep trying.
 ---
 
 ![C#](https://img.shields.io/badge/C%23-6f42c1?style=flat)
-![Linux](https://img.shields.io/badge/Linux-6f42c1?style=flat)
 ![Linux](https://img.shields.io/badge/C++-6f42c1?style=flat)
+![Linux](https://img.shields.io/badge/Linux-6f42c1?style=flat)
